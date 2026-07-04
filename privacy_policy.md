@@ -1,8 +1,8 @@
-# Privacy Policy for Deckwise
+# Privacy Policy for Deckwise Flashcards
 
 Effective date: July 4, 2026
 
-Deckwise is a simple flashcard study app. This Privacy Policy explains how Deckwise handles information when you use the app.
+Deckwise Flashcards ("Deckwise") is a simple flashcard study app. This Privacy Policy explains how Deckwise handles information when you use the app.
 
 ## Information You Create in the App
 
